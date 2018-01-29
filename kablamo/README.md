@@ -1,8 +1,16 @@
-# kablamo
+# Kablamo
 
-A [re-frame](https://github.com/Day8/re-frame) application designed to ... well, that part is up to you.
+A simple [re-frame](https://github.com/Day8/re-frame) application with some nicely styled text.
 
-## Development Mode
+### Created From Re-Frame Template
+
+This project was created from the re-frame leiningen template with:
+
+```
+lein new re-frame kablamo +re-frisk +trace
+```
+
+## Usage
 
 ### Run application:
 
@@ -24,3 +32,7 @@ To compile clojurescript to javascript:
 lein clean
 lein cljsbuild once min
 ```
+
+### Credits
+
+Thanks to Claire Larsen (https://codepen.io/ClaireLarsen/pen/XmVyVX) and Alex Moore (https://codepen.io/MoorLex/pen/BzgyyY) from examples of some cool text css styles!
