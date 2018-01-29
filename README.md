@@ -2,6 +2,10 @@
 
 A simple [re-frame](https://github.com/Day8/re-frame) application with some nicely styled text.
 
+### Live Demo
+
+Try it here: https://jimtheman.github.io/Kablamo/
+
 ### Created From Re-Frame Template
 
 This project was created from the re-frame leiningen template with:
