@@ -2,9 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="91898d31-f69c-4e01-b1de-700fa9a82ce0" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kablamo/resources/public/js/compiled/app.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/kablamo2/.gitignore" afterPath="$PROJECT_DIR$/kablamo/.gitignore" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/kablamo2/.idea/jsLibraryMappings.xml" afterPath="$PROJECT_DIR$/kablamo/.idea/jsLibraryMappings.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/kablamo2/.idea/kablamo.iml" afterPath="$PROJECT_DIR$/kablamo/.idea/kablamo.iml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/kablamo2/.idea/misc.xml" afterPath="$PROJECT_DIR$/kablamo/.idea/misc.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/kablamo2/.idea/modules.xml" afterPath="$PROJECT_DIR$/kablamo/.idea/modules.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/kablamo2/.idea/workspace.xml" afterPath="$PROJECT_DIR$/kablamo/.idea/workspace.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/kablamo2/README.md" afterPath="$PROJECT_DIR$/kablamo/README.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/kablamo2/project.clj" afterPath="$PROJECT_DIR$/kablamo/project.clj" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/kablamo2/resources/public/css/cool-text-effect.css" afterPath="$PROJECT_DIR$/kablamo/resources/public/css/cool-text-effect.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/kablamo2/resources/public/css/footer.css" afterPath="$PROJECT_DIR$/kablamo/resources/public/css/footer.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/kablamo2/resources/public/index.html" afterPath="$PROJECT_DIR$/kablamo/resources/public/index.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/kablamo2/resources/public/js/compiled/app.js" afterPath="$PROJECT_DIR$/kablamo/resources/public/js/compiled/app.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/kablamo2/src/clj/kablamo/core.clj" afterPath="$PROJECT_DIR$/kablamo/src/clj/kablamo/core.clj" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/kablamo2/src/cljs/kablamo/config.cljs" afterPath="$PROJECT_DIR$/kablamo/src/cljs/kablamo/config.cljs" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/kablamo2/src/cljs/kablamo/core.cljs" afterPath="$PROJECT_DIR$/kablamo/src/cljs/kablamo/core.cljs" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/kablamo2/src/cljs/kablamo/db.cljs" afterPath="$PROJECT_DIR$/kablamo/src/cljs/kablamo/db.cljs" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/kablamo2/src/cljs/kablamo/events.cljs" afterPath="$PROJECT_DIR$/kablamo/src/cljs/kablamo/events.cljs" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/kablamo2/src/cljs/kablamo/subs.cljs" afterPath="$PROJECT_DIR$/kablamo/src/cljs/kablamo/subs.cljs" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/kablamo2/src/cljs/kablamo/views.cljs" afterPath="$PROJECT_DIR$/kablamo/src/cljs/kablamo/views.cljs" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kablamo/.gitignore" afterPath="$PROJECT_DIR$/kablamo/.gitignore" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -29,8 +46,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="570">
-                <caret line="38" column="0" lean-forward="false" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+              <first_editor relative-caret-position="627">
+                <caret line="42" column="0" lean-forward="false" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -184,6 +201,78 @@
     <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="js.eslint.eslintPackage" value="" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/kablamo2/resources2" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/kablamo" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="CabalRunConfiguration" factoryName="Haskell">
+      <module name="" />
+      <setting name="executableName" value="" />
+      <setting name="parameters" value="" />
+      <setting name="workingDir" value="" />
+      <environmetVariables />
+      <method />
+    </configuration>
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
@@ -195,19 +284,19 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1517200739089</updated>
-      <workItem from="1517200741448" duration="193000" />
+      <workItem from="1517200741448" duration="412000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="193000" />
+    <option name="totallyTimeSpent" value="412000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="402" y="37" width="1256" height="881" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="PlantUML" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Cabal" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
@@ -241,8 +330,8 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="570">
-            <caret line="38" column="0" lean-forward="false" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+          <first_editor relative-caret-position="627">
+            <caret line="42" column="0" lean-forward="false" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />
