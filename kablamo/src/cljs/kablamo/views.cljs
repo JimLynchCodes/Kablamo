@@ -17,7 +17,7 @@
          [:use {:xlinkHref "#s-text", :class "text-copy"}]"\t\t"
          [:use {:xlinkHref "#s-text", :class "text-copy"}]"\t\t"
          [:use {:xlinkHref "#s-text", :class "text-copy"}]"\t"]]
-      [:div.footer.pretty-font "A cool ClojureScript thing by "[:a.jim-anchor {:href "https://github.com/JimTheMan/Kablamo"}"Jim"]]
+      [:div.footer.pretty-font "A cool ClojureScript thing by "[:a.jim-anchor {:href "https://github.com/JimTheMan"}"Jim"]]
     ]))
 
 
