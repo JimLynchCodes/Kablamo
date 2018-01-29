@@ -1,0 +1,29 @@
+@import url(https://fonts.googleapis.com/css?family=Chewy);
+
+.footer {
+    height: 2vw;
+    position: fixed;
+    bottom: 7vw;
+    width:90vw;
+    font: 3vw 'Chewy';
+    margin: 0px auto;
+
+}
+
+.pretty-font {
+    text-align: center;
+    color: white;
+    letter-spacing: 5px;
+    position: absolute;
+    margin-top: -40px;
+
+    text-shadow: -1px -1px 0 blue,
+    2px 2px 0 blue,
+    5px 5px 0 blue;
+}
+
+.jim-anchor {
+    text-shadow: 0 0 0 blue,
+    0 0 0 blue,
+    0 0 0 blue;
+}
