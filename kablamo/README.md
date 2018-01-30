@@ -35,4 +35,4 @@ lein cljsbuild once min
 
 ### Credits
 
-Thanks to Claire Larsen (https://codepen.io/ClaireLarsen/pen/XmVyVX) and Alex Moore (https://codepen.io/MoorLex/pen/BzgyyY) from examples of some cool text css styles!
+Thanks to Claire Larsen (https://codepen.io/ClaireLarsen/pen/XmVyVX) and Alex Moore (https://codepen.io/MoorLex/pen/BzgyyY) for examples of some cool text css styles!
