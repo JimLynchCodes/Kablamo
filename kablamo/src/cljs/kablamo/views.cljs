@@ -4,19 +4,15 @@
             [kablamo.events :as events]))
 
 (defn label-changing-button []
-  (let [name (re-frame/subscribe [::subs/name])
-        kablamming (re-frame/subscribe [::subs/kablamming])
-        ]
-    [:button {:on-click #(re-frame.core/dispatch [::events/button-clicked "Jafwamo!"])} (str "Press me! " @name)]
-    ))
-
-
+  (let [name       (re-frame/subscribe [::subs/name])
+        kablamming (re-frame/subscribe [::subs/kablamming])]
+    [:button       {:on-click #(re-frame.core/dispatch [::events/button-clicked "Jafwamo!"])}
+     (str "Press me! " @name)]))
 
 
 (defn main-panel []
-  (let [name (re-frame/subscribe [::subs/name])
-        kablamming (re-frame/subscribe [::subs/kablamming])
-        ]
+  (let [name       (re-frame/subscribe [::subs/name])
+        kablamming (re-frame/subscribe [::subs/kablamming])]
     [:div
       [:svg {:viewBox "0 0 960 300"} "\t"
        [:symbol {:id "s-text"} "\t\t"
