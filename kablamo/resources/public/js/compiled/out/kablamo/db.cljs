@@ -2,4 +2,4 @@
 
 (def default-db
   {:name "Kablamo!"
-   :kablamming      "holla"})
+   :kablamming "holla"})

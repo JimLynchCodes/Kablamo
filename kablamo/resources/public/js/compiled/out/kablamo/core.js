@@ -29,4 +29,4 @@ return kablamo.core.mount_root.call(null);
 });
 goog.exportSymbol('kablamo.core.init', kablamo.core.init);
 
-//# sourceMappingURL=core.js.map?rel=1517200905682
+//# sourceMappingURL=core.js.map?rel=1517847492925

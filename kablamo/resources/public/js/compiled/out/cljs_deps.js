@@ -32,9 +32,9 @@ goog.addDependency("../re_frame/std_interceptors.js", ['re_frame.std_interceptor
 goog.addDependency("../re_frame/subs.js", ['re_frame.subs'], ['re_frame.interop', 're_frame.trace', 're_frame.registrar', 'cljs.core', 're_frame.utils', 're_frame.loggers', 're_frame.db']);
 goog.addDependency("../re_frame/core.js", ['re_frame.core'], ['re_frame.interop', 're_frame.interceptor', 're_frame.events', 're_frame.fx', 're_frame.registrar', 'cljs.core', 're_frame.router', 'clojure.set', 're_frame.std_interceptors', 're_frame.loggers', 're_frame.subs', 're_frame.cofx', 're_frame.db']);
 goog.addDependency("../kablamo/subs.js", ['kablamo.subs'], ['cljs.core', 're_frame.core']);
-goog.addDependency("../kablamo/views.js", ['kablamo.views'], ['kablamo.subs', 'cljs.core', 're_frame.core']);
 goog.addDependency("../kablamo/db.js", ['kablamo.db'], ['cljs.core']);
 goog.addDependency("../kablamo/events.js", ['kablamo.events'], ['kablamo.db', 'cljs.core', 're_frame.core']);
+goog.addDependency("../kablamo/views.js", ['kablamo.views'], ['kablamo.subs', 'cljs.core', 'kablamo.events', 're_frame.core']);
 goog.addDependency("../kablamo/core.js", ['kablamo.core'], ['reagent.core', 'cljs.core', 'kablamo.config', 'kablamo.views', 'kablamo.events', 're_frame.core']);
 goog.addDependency("../cljs/core/async/impl/protocols.js", ['cljs.core.async.impl.protocols'], ['cljs.core']);
 goog.addDependency("../cljs/core/async/impl/buffers.js", ['cljs.core.async.impl.buffers'], ['cljs.core', 'cljs.core.async.impl.protocols']);
