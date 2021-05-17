@@ -4,7 +4,7 @@ A simple [re-frame](https://github.com/Day8/re-frame) application with some nice
 
 ### Live Demo
 
-Try it here: https://jimtheman.github.io/Kablamo/
+Try it here: https://jimlynchcodes.github.io/Kablamo/
 
 ### Created From Re-Frame Template
 
